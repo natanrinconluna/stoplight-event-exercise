@@ -48,3 +48,4 @@ goButton.addEventListener('mouseleave', function(){
 });
 const bulb = document.getElementByClassName("bulb stop")
 console.log(bulb)
+//'test'
